@@ -6,7 +6,7 @@ title: "Welcome to our second slide!"
 
 ---
 
-Your text
+* Every pain gives a lesson and every lesson changes a person *-A.P.J Abdul Kalam
 
 Use the left arrow to go back!
 
